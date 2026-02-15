@@ -1,7 +1,4 @@
-<?php 
-
-$name = "Hisam";
-
+<?php
 $x = "12";
 $y = "3";
 $z = "7";
@@ -10,6 +7,5 @@ $sum = $x + $y + $z;
 $difference = $x - $y;
 $multiplication = $x * $y;
 
-ec
+echo"sum";
 
-echo "Hello $name, welcome to PHP programming!";
