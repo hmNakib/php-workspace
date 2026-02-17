@@ -2,8 +2,8 @@
 
 $name = "Hisam";
 
-$x = "12";
-$y = "3";
+$x = "50";
+$y = "50";
 $z = "7";
 
 $sum = $x + $y + $z;
@@ -11,5 +11,6 @@ $difference = $x - $y;
 $multiplication = $x * $y;
 
 
-
-echo "Hello $name, welcome to PHP programming!";
+print "Sum:" . $sum . "\n";
+print "Difference:" . $difference . "\n";
+print "Multiplication:" . $multiplication . "\n";
