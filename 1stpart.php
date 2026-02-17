@@ -3,12 +3,11 @@ $x = "12";
 $y = "3";
 $z = "7";
 
-$sum = "$x + $y + $z";
+$sum = $x + $y ;
 $difference = $x - $y;
 $multiplication = $x * $y;
 
 echo" this is my sum: $sum";
-echo "\n";
 echo "\n";
 echo "this is my difference: $difference";
 echo "\n";
