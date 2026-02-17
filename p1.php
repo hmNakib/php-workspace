@@ -10,6 +10,6 @@ $sum = $x + $y + $z;
 $difference = $x - $y;
 $multiplication = $x * $y;
 
-ec
+
 
 echo "Hello $name, welcome to PHP programming!";

@@ -1,14 +1,14 @@
 <?php
-$x = "12";
-$y = "3";
-$z = "7";
+$x = 10;
+$y = 3;
+$z = 7;
 
-$sum = $x + $y ;
+$sum = $x + $y + $z;
 $difference = $x - $y;
 $multiplication = $x * $y;
 
-echo" this is my sum: $sum";
+echo" this is my sum:", $sum;
 echo "\n";
-echo "this is my difference: $difference";
+echo "this is my difference:", $difference;
 echo "\n";
-echo "this is my multiplication: $multiplication";
+echo "this is my multiplication:", $multiplication;
